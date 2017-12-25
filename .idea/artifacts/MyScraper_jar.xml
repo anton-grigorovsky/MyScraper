@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="MyScraper:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/MyScraper_jar</output-path>
+    <root id="archive" name="MyScraper.jar">
+      <element id="module-output" name="MyScraper" />
+    </root>
+  </artifact>
+</component>
